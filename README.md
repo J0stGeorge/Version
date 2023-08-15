@@ -3,7 +3,7 @@
 <h3 align="center">Seongwoo's Asura Macro</h3>
 
   <p align="center">
-    💻 Macro for mighty omega using Autohotkey! 💻
+    💻 Macro for Asura using Jitbit ! 💻
     <br />
     <a href="https://www.roblox.com/games/13358463560/Asura"><strong>Game Link »</strong></a>
     <br />
